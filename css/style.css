@@ -27,6 +27,19 @@ body {
 img {
   max-width: 100%;
   height: auto;
+  display: block;
+}
+
+ul,
+li {
+  list-style-type: none;
+}
+
+a {
+  display: block;
+  text-decoration: none;
+  color: #ff7619;
+  font-size: 17px;
 }
 
 /* AUTOFILL-STYLES */
